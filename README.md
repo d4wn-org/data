@@ -1,6 +1,9 @@
 # d4wn-public-data
 Aggregated monthly summary data from D4WN platform in Mozambique
 
+![image](https://user-images.githubusercontent.com/110256299/181826292-402d6e86-8695-458d-b396-b97578339d38.png)
+
+https://www.d4wn.org/
 
 Open Data Commons Open Database License (ODbL) Summary
 This is a human-readable summary of the ODbL 1.0 license. Please see the disclaimer below.
