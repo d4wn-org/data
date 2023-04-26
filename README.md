@@ -1,4 +1,4 @@
-# d4wn-public-data
+# d4wn public aggregated data
 Aggregated monthly summary data from D4WN platform in Mozambique
 
 ![image](https://user-images.githubusercontent.com/110256299/181826292-402d6e86-8695-458d-b396-b97578339d38.png)
